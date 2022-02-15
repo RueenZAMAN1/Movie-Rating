@@ -1,2 +1,2 @@
-# Movie_Rating
+# Movie-Rating
 Projet React Native
